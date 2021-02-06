@@ -1,0 +1,25 @@
+html {
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+}
+
+.text-thin {
+  font-weight: 300 !important;
+}
+
+.bg-landing	 {
+    color: #fff;
+    background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.4)), url("/images/pexels-cottonbro-4569340.jpg");
+	background-size      : cover;
+	background-position  : center;
+    background-repeat    : no-repeat;
+    background-attachment: fixed;
+    height               : 100%;
+
+  }
