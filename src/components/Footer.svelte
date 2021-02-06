@@ -14,6 +14,7 @@
                             on:click={() => animateScroll.scrollTo({
                                     element: '#hero',
                                     duration: 1200,
+                                    delay: 0,
                                     offset: 0,
                                 })}>Home</a>
                     </li>
@@ -23,6 +24,7 @@
                             on:click={() => animateScroll.scrollTo({
                                     element: '#about',
                                     duration: 1200,
+                                    delay: 0,
                                     offset: -100,
                                 })}>About</a>
                     </li>
@@ -32,6 +34,7 @@
                             on:click={() => animateScroll.scrollTo({
                                     element: '#services',
                                     duration: 1200,
+                                    delay: 0,
                                     offset: -100,
                                 })}>Services</a>
                     </li>
@@ -62,6 +65,7 @@
                 on:click={() => animateScroll.scrollTo({
                         element: '#hero',
                         duration: 1200,
+                        delay: 0,
                         offset: 0,
                     })}>{$siteData.name}</a>
         </p>

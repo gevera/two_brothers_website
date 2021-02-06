@@ -66,7 +66,8 @@
                 on:click={() => animateScroll.scrollTo({
                         element: '#quote',
                         duration: 1200,
-                        offset: -100
+                        delay: 0,
+                        offset: -100,
                     })}
                 class="e-btn primary rounded inverted plus mt-2 ePull infinite"
                 href="/#quote">Get an estimate</a>

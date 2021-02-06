@@ -32,6 +32,7 @@
 			on:click={() => animateScroll.scrollTo({
 					element: '#hero',
 					duration: 1200,
+					delay: 0,
 					offset: 0,
 				})}>Home</a>
 		<a
@@ -40,6 +41,7 @@
 			on:click={() => animateScroll.scrollTo({
 					element: '#about',
 					duration: 1200,
+					delay: 0,
 					offset: -100,
 				})}>About</a>
 		<div class="e-dropdown text-primary">
@@ -52,6 +54,7 @@
 					on:click={() => animateScroll.scrollTo({
 							element: '#service1',
 							duration: 1200,
+							delay: 0,
 							offset: -100,
 						})}>Service One</a>
 				<a
@@ -60,6 +63,7 @@
 					on:click={() => animateScroll.scrollTo({
 							element: '#service2',
 							duration: 1200,
+							delay: 0,
 							offset: -100,
 						})}>Service Two</a>
 				<a
@@ -68,6 +72,7 @@
 					on:click={() => animateScroll.scrollTo({
 							element: '#service3',
 							duration: 1200,
+							delay: 0,
 							offset: -100,
 						})}>Service Three</a>
 				<a
@@ -76,6 +81,7 @@
 					on:click={() => animateScroll.scrollTo({
 							element: '#service4',
 							duration: 1200,
+							delay: 0,
 							offset: -100,
 						})}>Service Four</a>
 				<hr />
@@ -87,6 +93,7 @@
 					on:click={() => animateScroll.scrollTo({
 							element: '#quote',
 							duration: 1200,
+							delay: 0,
 							offset: -100,
 						})}>Free Quote</a>
 			</div>
@@ -97,6 +104,7 @@
 			on:click={() => animateScroll.scrollTo({
 					element: '#contact',
 					duration: 1200,
+					delay: 0,
 					offset: -100,
 				})}>Contacts</a>
 		<a
