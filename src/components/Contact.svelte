@@ -24,8 +24,7 @@
         <div class="e-col-4 centered p-2">
             <p>
                 if you have any questions regarding amet consectetur adipisicing
-                elit. Officiis eligendi dolor at mollitia explicabo totam
-                praesentium delectus, cum repudiandae non nemo alias ab fugit
+                elit. Officiis eligendi praesentium delectus, cum repudiandae non nemo alias ab fugit
                 distinctio! Expedita, excepturi deserunt! Eius,
                 <a
                     href={`tel:${$siteData.telephone}`}>{$siteData.telephone}</a>.
