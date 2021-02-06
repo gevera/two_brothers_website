@@ -1,6 +1,5 @@
 <script>
     import Nav from "../components/Nav.svelte";
-    import * as animateScroll from "svelte-scrollto";
 </script>
 
 <style>
@@ -63,12 +62,6 @@
             <h1 class="e-title pt-3">Two Brothers & Van</h1>
             <h2 class="e-subtitle text-thin">Removal services done right</h2>
             <a
-                on:click={() => animateScroll.scrollTo({
-                        element: '#quote',
-                        duration: 1200,
-                        delay: 0,
-                        offset: -100,
-                    })}
                 class="e-btn primary rounded inverted plus mt-2 ePull infinite"
                 href="/#quote">Get an estimate</a>
             <!-- <p>

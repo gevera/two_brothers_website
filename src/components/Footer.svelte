@@ -1,6 +1,5 @@
 <script>
     import { siteData } from "../store/data";
-    import * as animateScroll from "svelte-scrollto";
 </script>
 
 <footer class="e-footer">
@@ -8,36 +7,9 @@
         <div class="e-col-6 centered">
             <nav class="e-breadcrumb" aria-label="breadcrumb">
                 <ul>
-                    <li>
-                        <a
-                            href="/#hero"
-                            on:click={() => animateScroll.scrollTo({
-                                    element: '#hero',
-                                    duration: 1200,
-                                    delay: 0,
-                                    offset: 0,
-                                })}>Home</a>
-                    </li>
-                    <li>
-                        <a
-                            href="/#about"
-                            on:click={() => animateScroll.scrollTo({
-                                    element: '#about',
-                                    duration: 1200,
-                                    delay: 0,
-                                    offset: -100,
-                                })}>About</a>
-                    </li>
-                    <li>
-                        <a
-                            href="/#services"
-                            on:click={() => animateScroll.scrollTo({
-                                    element: '#services',
-                                    duration: 1200,
-                                    delay: 0,
-                                    offset: -100,
-                                })}>Services</a>
-                    </li>
+                    <li><a href="/#hero">Home</a></li>
+                    <li><a href="/#about">About</a></li>
+                    <li><a href="/#services">Services</a></li>
                 </ul>
             </nav>
         </div>
@@ -59,15 +31,7 @@
             ©
             {new Date().getFullYear()}
             Copyright:
-            <a
-                class="link"
-                href="/#hero"
-                on:click={() => animateScroll.scrollTo({
-                        element: '#hero',
-                        duration: 1200,
-                        delay: 0,
-                        offset: 0,
-                    })}>{$siteData.name}</a>
+            <a class="link" href="/#hero">{$siteData.name}</a>
         </p>
     </div>
 </footer>
