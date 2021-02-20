@@ -8,7 +8,13 @@
 	import Hero from "../components/Hero.svelte";
 	import Why from "../components/Why.svelte";
 	import { siteData } from "../store/data";
+
+	// let y;
+	// $: $siteData.y = y;
+
+	// $: console.log($siteData.y);
 </script>
+<!-- <svelte:window bind:scrollY={y} /> -->
 
 <style>
 </style>

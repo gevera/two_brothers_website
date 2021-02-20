@@ -57,8 +57,9 @@
 			<img src="/images/logo-image.png" alt="main_logo"/>
 		</div> -->
         <!-- <div class="face-item no-desktop"></div> -->
-        <div class="e-container eUp">
+        <div class="e-container eFade">
             <img src="/images/logo-image.png" alt="main_logo" />
+
             <h1 class="e-title pt-3">Two Brothers & Van</h1>
             <h2 class="e-subtitle text-thin">Removal services done right</h2>
             <a

@@ -14,7 +14,8 @@
     "compression": "^1.7.1",
     "efrolic": "^0.2.9",
     "polka": "next",
-    "sirv": "^1.0.0"
+    "sirv": "^1.0.0",
+    "svelte-inview": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
@@ -44,9 +45,11 @@
     "sass": "^1.32.6",
     "svelte": "^3.17.3",
     "svelte-check": "^1.0.46",
+    "svelte-imask": "^1.2.0",
     "svelte-preprocess": "^4.3.0",
     "svelte-scrollto": "^0.2.0",
     "svelte-swipe": "^1.7.2",
+    "swiper": "^6.4.15",
     "tslib": "^2.0.1",
     "typescript": "^4.0.3"
   }
