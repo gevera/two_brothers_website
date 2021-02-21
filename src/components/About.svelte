@@ -15,7 +15,7 @@
                 mission is to create a fast, hassle-free, and quality moving
                 experience for our customers. We specialize in large residential
                 moves as well as local, long-distance, and office moves. We
-                offer packing/ moving services throughout the Greater London or
+                offer packing / moving services throughout the Greater London or
                 wherever your final destination may take you. As a company, we
                 really strive to do your move right, every time.
             </p>

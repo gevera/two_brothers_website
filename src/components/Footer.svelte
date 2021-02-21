@@ -27,11 +27,18 @@
         </div> -->
     </div>
     <div class="e-footer-bar primary centered">
-        <p>
-            ©
-            {new Date().getFullYear()}
-            Copyright:
-            <a class="link" href="/#hero">{$siteData.name}</a>
-        </p>
+        <div class="e-cols centered">
+            <div class="e-col centered ">
+                <p>
+                    ©
+                    {new Date().getFullYear()}
+                    Copyright:
+                    <a class="link" href="/#hero">{$siteData.name}</a>
+                </p>
+            </div>
+            <div class="e-col centered">
+               <p>Made with ❤️ in Ufa - <a href="https://twitter.com/skryonline" target="_blank">@skryonline</a></p>
+            </div>
+        </div>
     </div>
 </footer>
