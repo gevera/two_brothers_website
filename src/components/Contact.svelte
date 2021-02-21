@@ -8,11 +8,11 @@
         <div class="e-container e-cols centered">
             <div class="e-col-4 centered p-2">
                 <p>
-                    if you have any questions regarding amet consectetur
-                    adipisicing elit. Officiis eligendi praesentium delectus,
-                    cum repudiandae non nemo alias ab fugit distinctio!
-                    Expedita, excepturi deserunt! Eius,
+                    We are always available to answer any questions you have
+                    about our movers, our rates, the services we offer, and the
+                    areas we cover. We look forward to serving you! 
                     <a
+                        class="text-bold"
                         href={`tel:${$siteData.telephone}`}>{$siteData.telephone}</a>.
                 </p>
             </div>

@@ -11,20 +11,15 @@
         <div class="e-col centered">
             <article class="e-note block white">
                 <div class="note-body text-center">
-                    Homegrown Moving Company is a locally owned moving company
-                    in Colorado, whose mission is to create an honest,
-                    hassle-free, and quality moving experience for our
-                    customers. We specialize in large residential moves as well
-                    as local, long-distance, and office moves. We offer packing/
-                    moving services throughout the state of Colorado or wherever
-                    your final destination may take you. As a company, we really
-                    strive to do your move right, every time. Our team is
-                    focused on delivering a quality, hassle-free experience to
-                    all of our customers. If you haven’t tried us, please do, so
-                    you can see the difference in our honest approach. We want
-                    to be the moving company that you choose now and in the
-                    future, and also the company you can refer to your friends
-                    and family.
+                    The most important thing to us is the satisfaction of each
+                    and every one of our customers. It is the ultimate goal of
+                    every move we complete. As a family company, at
+                    <span class="text-italic text-bold">Two Brothers & Van</span>,
+                    we are committed to deliver a quality, hassle-free moving
+                    experience. We are always available, so if you need any
+                    assistance before, during, or after your move – we are here
+                    for you! Your feedback is vital to the continued growth and
+                    success of our company.
                 </div>
             </article>
         </div>

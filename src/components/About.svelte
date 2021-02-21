@@ -10,15 +10,14 @@
     <div class="e-container e-cols centered p-3 border-top limit">
         <div class="e-col-10 centered">
             <p class="text-center">
-                The most important thing to us is the satisfaction of each and
-                every one of our customers. It is the ultimate goal of every
-                move we complete. As a family company, every person that we are
-                involved in moving becomes a member of the family. And here at
-                All My Sons, we are committed to supporting our family members!
-                Our dedicated customer care team are always available, so if you
-                need any assistance before, during, or after your move – we are
-                here for you! Your feedback is vital to the continued growth and
-                success of our company.
+                <span class="text-italic text-bold">Two Brtohers & Van</span>
+                is a locally owned removals company in Buckinghamshire, whose
+                mission is to create a fast, hassle-free, and quality moving
+                experience for our customers. We specialize in large residential
+                moves as well as local, long-distance, and office moves. We
+                offer packing/ moving services throughout the Greater London or
+                wherever your final destination may take you. As a company, we
+                really strive to do your move right, every time.
             </p>
         </div>
     </div>

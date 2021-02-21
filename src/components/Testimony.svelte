@@ -55,13 +55,13 @@
                     <div class="e-col">
                         <div class="e-card">
                             <div class="card-body">
-                                <h3 class="card-title">Michael W.</h3>
+                                <h3 class="card-title">Marry G.</h3>
                                 <p class="card-text text-italic">
-                                    We moved from a Littleton apartment to our
-                                    home in Loveland and Homegrown Moving
-                                    Company brought two trucks, loaded and
+                                    We moved from a Gerrards Cross apartment to
+                                    our new home in High Wycombe and Two
+                                    Brothers & Van brought two vans, loaded and
                                     unloaded and placed our furniture. The move
-                                    was efficient, the guys were on time,
+                                    was efficient, the brothers were on time,
                                     organized, friendly and hardworking, and
                                     affordable. Nothing was broken, care was
                                     taken with all of our things. We could not
@@ -74,10 +74,10 @@
                 <SwiperSlide>
                     <div class="e-card">
                         <div class="card-body">
-                            <h3 class="card-title">Marry G.</h3>
+                            <h3 class="card-title">Michael W.</h3>
                             <p class="card-text text-italic">
-                                Used before. Excellent service from start to
-                                finish.
+                                Pasha did an excellent job from start to
+                                finish. Thanks to him and his brother, we finally moved to our new place in Maidenhead.
                             </p>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                             <p class="card-text text-italic">
                                 The guys were simply wonderful in every way.
                                 They were fast, super efficient, and not one
-                                thing was broken. We have called them before
+                                thing was broken. Great job!
                             </p>
                         </div>
                     </div>
@@ -99,7 +99,7 @@
                         <div class="card-body">
                             <h3 class="card-title">Patrick O.</h3>
                             <p class="card-text text-italic">
-                                Our moving team was awesome!!! They were
+                                The moving brothers were awesome!!! They were
                                 respectful of our belongings as well as both
                                 houses! They were quick and efficient as well!
                                 We could not have had a better team! A big thank
@@ -110,5 +110,10 @@
                 </SwiperSlide>
             </Swiper>
         {/if}
+        <div class="e-cols centered">
+            <div class="e-col">
+                <img src="/images/luton_van.png" alt="luton van">
+            </div>
+        </div>
     </div>
 </div>
