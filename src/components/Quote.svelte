@@ -12,7 +12,7 @@
     let service_type = "";
 
     const options = {
-        mask: "0000 000000",
+        mask: "+44 0000 0000000",
     };
 
     const closeModal = () => {
