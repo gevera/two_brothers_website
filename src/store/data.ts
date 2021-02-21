@@ -29,16 +29,16 @@ export const services = writable([
     img: "/images/office.jpg",
     icon: "",
   },
-  {
-    id: "service4",
-    name: "Loading & Unloading",
-    text:
-      `Looking to save some money on your move by renting/driving but don’t want to do the heavy lifting?
-       Maybe you need some help loading pods or mobile storage containers?
-       We have solutions for any of your loading or unloading service needs in Greater London area.`,
-    img: "/images/loading.jpg",
-    icon: "",
-  },
+  // {
+  //   id: "service4",
+  //   name: "Loading & Unloading",
+  //   text:
+  //     `Looking to save some money on your move by renting/driving but don’t want to do the heavy lifting?
+  //      Maybe you need some help loading pods or mobile storage containers?
+  //      We have solutions for any of your loading or unloading service needs in Greater London area.`,
+  //   img: "/images/loading.jpg",
+  //   icon: "",
+  // },
   {
     id: "service5",
     name: "Packing & Unpacking",
