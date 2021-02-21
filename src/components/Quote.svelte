@@ -3,7 +3,7 @@
     import { services } from "../store/data";
     import { imask } from "svelte-imask";
 
-    let open = true;
+    let open = false;
     let name = "";
     let telephone = "";
     let text_message = "";
