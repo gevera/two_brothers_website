@@ -3,8 +3,8 @@ import { writable } from "svelte/store";
 export const siteData = writable({
   name: "TWO BROTHERS & VAN",
   telephone: "+44 77 37086486",
-  email: "twobrothers_and_van@gmail.com",
-  y: 0,
+  email: "2twobrothers.van@gmail.com",
+  facebook: 'https://www.facebook.com/Two-Brothers-and-Van-346074013146089/'
 });
 
 export const services = writable([

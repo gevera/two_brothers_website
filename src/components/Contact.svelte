@@ -20,7 +20,7 @@
                 <div class="e-buttons centered">
                     <a
                         class="e-btn circle inverted primary"
-                        href="https://www.facebook.com"><i
+                        href={$siteData.facebook} target="_blank"><i
                             class="fab fa-facebook-f" /></a>
                     <a
                         class="e-btn circle inverted sky"
